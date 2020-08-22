@@ -1,5 +1,5 @@
 <!-- ![image](https://i.imgur.com/xBqYfL7.jpg) -->
-![image](https://i.imgur.com/JZsCWEm.jpg)
+![image](https://i.imgur.com/e1wdZbK.png)
 <h1 align="center">Hi there 👋</h1>
 
 🚀 My name is Aurelian, I build bespoke webapps with ReactJS and WordPres. I'm based in Manchester, England 🇬🇧. I'm a self-taught front-end developer specialising in ReactJS, WordPress and TypeScript, and a few others. I also run a [JavaScript Community Server](https://discord.gg/EPtWaxe).
