@@ -8,6 +8,6 @@
 
 
 
-![image]https://image.flaticon.com/icons/png/512/174/174857.png(https://www.linkedin.com/in/aurelianspodarec/)
+![image](https://image.flaticon.com/icons/png/512/174/174857.png(https://www.linkedin.com/in/aurelianspodarec/))
 Blog:
 Discord: https://discord.gg/EPtWaxe
