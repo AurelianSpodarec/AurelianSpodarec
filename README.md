@@ -1,7 +1,3 @@
-
-# IN PROGRESS
-
-
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Aurelian Spodarec!
 
 
@@ -51,7 +47,7 @@ laravel - https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+https://www.linkedin.com/pulse/how-write-resume-get-interview-aurelian-spodarec/
 
 
 <!-- BLOG-POST-LIST:END -->
