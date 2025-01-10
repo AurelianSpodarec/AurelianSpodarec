@@ -1,5 +1,8 @@
 ### Hi there 👋
 
-My name is Aurelian, I am a Polish front-end developer living in Manchester, United Kingdom 🇬🇧 
+Building cool stuff (coming soon)
+-
+-
+-
 
 [Hit me up on my site](https://aurelianspodarec.co.uk?ref=github) if you want to chat!
