@@ -1,8 +1,12 @@
 ### Hi there 👋
+In progress
 
-Building cool stuff (coming soon)
+
+Building cool stuff in Public
 - [SupaDevkit](https://supadevkit.com)
 - Coming soon!
 - Coming soon!
 
-[Hit me up on my site](https://aurelianspodarec.co.uk?ref=github) if you want to chat!
+If you need a landing page or front-end work send me an email or schedule a call via here: [My site](https://aurelianspodarec.co.uk?ref=github)
+
+Connect on Social Media:
