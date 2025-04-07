@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-Front-End developer first, building stuff with JavaScript and React. Crafting high-converting websites to get more sales.
+Front-end developer first. 
 
-Building cool stuff in Public
+Focused on building perfect solutions and components for the front-end to move fast - specifically for the React ecosystem, but not limited.
+
+Some of the things I'm working on:
 - [SupaDevkit](https://supadevkit.com)
 - [LuaDocs](https://luadocs.com)
 - [TailBuilder](https://app.tailbuilder.com/editor/1) (very beta)
-- Coming soon!
 
-If you need a landing page or front-end work send me an email or schedule a call via here: [My site](https://aurelianspodarec.co.uk?ref=github)
+And of course, [My Blog](https://aurelianspodarec.co.uk/blog?ref=github)
 
-Connect on Social Media: [X/Twitter](https://x.com/mraurelian) | [LinkedIn](https://www.linkedin.com/in/aurelianspodarec/)
+A lot more is coming soon!
