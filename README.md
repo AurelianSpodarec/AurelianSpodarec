@@ -1,2 +1,1 @@
-![Screenshot](stoic.png)
-Craftsmanship, iteration, speed, and work that compounds. I believe good work outlasts performative speed.
+[![aurelianspodarec.com](stoic.png)](https://aurelianspodarec.com)
